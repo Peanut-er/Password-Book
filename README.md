@@ -9,3 +9,5 @@ pwd account change password -----改变密码，
 pwd list ----查看所有密码，
 pwd account delete----删除密码
 pwd account----直接获取并复制密码
+
+温馨提示：请输入英文作为账号名（不区分大小写），避免逗号等符号的使用。
